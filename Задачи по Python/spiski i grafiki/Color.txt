@@ -1,0 +1,8 @@
+color='b'	синий
+color='g'	зеленый
+color='r'	красный
+color='c'	голубой
+color='m'	сиреневый
+color='y'	желтый
+color='k'	черный
+color='w'	белый
